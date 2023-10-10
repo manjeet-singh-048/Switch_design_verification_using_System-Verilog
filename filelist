@@ -1,0 +1,12 @@
+../Global.sv
+../rtl.sv
+../interface.sv 
+../top.sv 
+../packet.sv
+../driver.sv
+../receiver.sv
+../coverage.sv
+../scoreboard.sv
+../Environment.sv
+../testcase.sv 
+
